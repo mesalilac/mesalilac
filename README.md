@@ -39,5 +39,3 @@
   ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=senpai-10&theme=dracula&hide_border=true&area=true)
 
 </details>
-
-<hr>
